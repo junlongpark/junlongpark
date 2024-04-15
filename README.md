@@ -1,4 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junlongpark)](https://solved.ac/junlongpark/)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JUKimHI&show_icons=true&theme=tokyonight)
 ### Hi there 👋
 
 <!--
