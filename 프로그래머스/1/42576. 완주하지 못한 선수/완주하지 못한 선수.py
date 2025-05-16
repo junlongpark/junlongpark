@@ -7,5 +7,6 @@ def solution(participant, completion):
             answer = participant[i]
             break
     else:
-        answer = participant[-1]
+        answer=participant[-1]
+            
     return answer
